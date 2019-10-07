@@ -1,0 +1,18 @@
+.header-slider {
+  overflow: hidden;
+}
+
+.slides {
+  position: relative;
+}
+
+.slide {
+  display: none;
+}
+
+.slide.active {
+  display: -ms-grid;
+  display: grid;
+}
+
+/*# sourceMappingURL=_header-slider.css.map */
